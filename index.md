@@ -65,8 +65,6 @@ __University of California Santa Barbara__
 
 Bachelor of Science in Biopsychology and Bachelor of Arts in Chicano/a Studies
 
-- Sizar
-
 `Jan 2018 to July 2018`
 __Pontifical Catholic University of Chile__
 
