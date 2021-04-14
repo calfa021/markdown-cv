@@ -51,7 +51,9 @@ title: Chelsy Alfaro's CV
 
 ## Skills 
 
-Proficient in microsoft office, great interpersonal skills, fluent in Spanish
+- Proficient in microsoft office
+- Great interpersonal skills
+- Fluent in Spanish
 
 ## Education
 
